@@ -1,0 +1,740 @@
+﻿++Решение "ZombiWebShooter" ‎(проекты: 1 из 1)
+i:{00000000-0000-0000-0000-000000000000}:ZombiWebShooter.sln
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+++Ссылки
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Assets
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\
+++Microsoft.Win32.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++mscorlib
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++netstandard
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Newtonsoft.Json
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++ReportGeneratorMerged
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.AppContext
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Buffers
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Collections
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Collections.Concurrent
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Collections.NonGeneric
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Collections.Specialized
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ComponentModel
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ComponentModel.Composition
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ComponentModel.EventBasedAsync
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ComponentModel.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ComponentModel.TypeConverter
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Console
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Core
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Data
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Data.Common
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.Contracts
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.Debug
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.FileVersionInfo
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.Process
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.StackTrace
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.TextWriterTraceListener
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.Tools
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.TraceSource
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Diagnostics.Tracing
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Drawing
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Drawing.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Dynamic.Runtime
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Globalization
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Globalization.Calendars
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Globalization.Extensions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.Compression
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.Compression.FileSystem
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.Compression.ZipFile
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.FileSystem
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.FileSystem.DriveInfo
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.FileSystem.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.FileSystem.Watcher
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.IsolatedStorage
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.MemoryMappedFiles
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.Pipes
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.IO.UnmanagedMemoryStream
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Linq
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Linq.Expressions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Linq.Parallel
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Linq.Queryable
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Memory
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.Http
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.NameResolution
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.NetworkInformation
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.Ping
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.Requests
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.Security
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.Sockets
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.WebHeaderCollection
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.WebSockets
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Net.WebSockets.Client
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Numerics
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Numerics.Vectors
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ObjectModel
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection.DispatchProxy
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection.Emit
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection.Emit.ILGeneration
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection.Emit.Lightweight
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection.Extensions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Reflection.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Resources.Reader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Resources.ResourceManager
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Resources.Writer
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.CompilerServices.VisualC
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Extensions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Handles
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.InteropServices
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Numerics
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Serialization
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Serialization.Formatters
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Serialization.Json
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Serialization.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Runtime.Serialization.Xml
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Claims
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Cryptography.Algorithms
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Cryptography.Csp
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Cryptography.Encoding
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Cryptography.Primitives
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Cryptography.X509Certificates
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.Principal
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Security.SecureString
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ServiceModel.Web
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Text.Encoding
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Text.Encoding.Extensions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Text.RegularExpressions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.Overlapped
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.Tasks
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.Tasks.Extensions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.Tasks.Parallel
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.Thread
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.ThreadPool
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Threading.Timer
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Transactions
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.ValueTuple
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Web
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Windows
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.Linq
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.ReaderWriter
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.Serialization
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.XDocument
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.XmlDocument
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.XmlSerializer
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.XPath
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++System.Xml.XPath.XDocument
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Android.Gradle
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Android.Types
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.EditorCoroutines.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Performance.Profile-Analyzer.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.PlasticSCM.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Rider.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Services.Core
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Services.Core.Analytics
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Services.Core.Environments
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.TestTools.CodeCoverage.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.TestTools.CodeCoverage.Editor.OpenCover.Model
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.TextMeshPro
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.TextMeshPro.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Timeline
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.Timeline.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.Antlr3.Runtime
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.Core
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.Core.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.Flow
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.Flow.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.SettingsProvider.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.Shared.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.State
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualScripting.State.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VisualStudio.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++Unity.VSCode.Editor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.CoreModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.DeviceSimulatorModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.DiagnosticsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.GraphViewModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.iOS.Extensions.Common
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.iOS.Extensions.Xcode
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.PackageManagerUIModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.QuickSearchModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.SceneTemplateModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.TextCoreFontEngineModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.TextCoreTextEngineModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.UI
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.UIBuilderModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.UIElementsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.UIElementsSamplesModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.UIServiceModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEditor.UnityConnectModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.AccessibilityModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.AIModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.AndroidJNIModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.AnimationModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ARModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.AssetBundleModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.AudioModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ClothModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ClusterInputModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ClusterRendererModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.CoreModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.CrashReportingModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.DirectorModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.DSPGraphModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.GameCenterModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.GIModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.GridModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.HotReloadModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ImageConversionModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.IMGUIModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.InputLegacyModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.InputModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.JSONSerializeModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.LocalizationModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ParticleSystemModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.PerformanceReportingModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.Physics2DModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.PhysicsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ProfilerModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.ScreenCaptureModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.SharedInternalsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.SpriteMaskModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.SpriteShapeModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.StreamingModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.SubstanceModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.SubsystemsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TerrainModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TerrainPhysicsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TextCoreFontEngineModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TextCoreTextEngineModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TextRenderingModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TilemapModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.TLSModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UI
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UIElementsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UIElementsNativeModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UIModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UmbraModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UNETModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityAnalyticsModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityConnectModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityCurlModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityTestProtocolModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityWebRequestModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.VehiclesModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.VFXModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.VideoModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.VirtualTexturingModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.VRModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.WindModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++UnityEngine.XRModule
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:
+++48 Particle Effect Pack
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\
+++Scripts
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\
+++TextMesh Pro
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\
+++Script
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\script\
+++ScriptsForCamera
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforcamera\
+++ScriptsForEnemy
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\
+++ScriptsForPerson
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforperson\
+++ScriptsForSound
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforsound\
+++ScriptsForTools
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\
+++ScriptsForUI
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\
+++ScriptsForWeapon
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\
+++Examples & Extras
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\
+++Fonts
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\fonts\
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\fonts\
+++Resources
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\resources\
+++Shaders
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\
+++Sprites
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\sprites\
+++csDestroyEffect.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\script\csdestroyeffect.cs
+++csMouseOrbit.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\script\csmouseorbit.cs
+++csParticleEffectPackLightControl.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\script\csparticleeffectpacklightcontrol.cs
+++csParticleMove.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\script\csparticlemove.cs
+++csShowAllEffect.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\48 particle effect pack\script\csshowalleffect.cs
+++MovingCamera.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforcamera\movingcamera.cs
+++SplitCameraController.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforcamera\splitcameracontroller.cs
+++Enemy.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\enemy.cs
+++ExplZombie.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\explzombie.cs
+++FastZombie.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\fastzombie.cs
+++MovementEnemyes.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\movementenemyes.cs
+++MovementExplZombie.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\movementexplzombie.cs
+++RespawnEnemy.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\respawnenemy.cs
+++SetDamage.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\setdamage.cs
+++StandartZombie.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\standartzombie.cs
+++ZombieDead.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforenemy\zombiedead.cs
+++Main Hero
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforperson\main hero\
+++ScriptsForMusic
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforsound\scriptsformusic\
+++Heals
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\heals\
+++Inventory
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\inventory\
+++InGame
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\ingame\
+++MainMenu
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\
+++Money.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\money.cs
+++MoneyView.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\moneyview.cs
+++Ak47.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\ak47.cs
+++BulletParticals.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\bulletparticals.cs
+++Pistol.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\pistol.cs
+++Rifle.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\rifle.cs
+++Shoot.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\shoot.cs
+++ShotGun.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\shotgun.cs
+++SniperRifle.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\sniperrifle.cs
+++Weapon.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforweapon\weapon.cs
+++LiberationSans - OFL.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\fonts\liberationsans - ofl.txt
+++LineBreaking Following Characters.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\resources\linebreaking following characters.txt
+++LineBreaking Leading Characters.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\resources\linebreaking leading characters.txt
+++TMP_Bitmap-Custom-Atlas.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_bitmap-custom-atlas.shader
+++TMP_Bitmap-Mobile.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_bitmap-mobile.shader
+++TMP_Bitmap.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_bitmap.shader
+++TMP_SDF-Mobile Masking.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf-mobile masking.shader
+++TMP_SDF-Mobile Overlay.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf-mobile overlay.shader
+++TMP_SDF-Mobile SSD.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf-mobile ssd.shader
+++TMP_SDF-Mobile.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf-mobile.shader
+++TMP_SDF-Surface-Mobile.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf-surface-mobile.shader
+++TMP_SDF-Surface.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf-surface.shader
+++TMP_SDF Overlay.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf overlay.shader
+++TMP_SDF SSD.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf ssd.shader
+++TMP_SDF.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sdf.shader
+++TMP_Sprite.shader
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmp_sprite.shader
+++TMPro.cginc
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmpro.cginc
+++TMPro_Mobile.cginc
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmpro_mobile.cginc
+++TMPro_Properties.cginc
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmpro_properties.cginc
+++TMPro_Surface.cginc
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\shaders\tmpro_surface.cginc
+++EmojiOne Attribution.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\sprites\emojione attribution.txt
+++MovementHero.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforperson\main hero\movementhero.cs
+++Player.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforperson\main hero\player.cs
+++PlayerGetDamageTracker.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforperson\main hero\playergetdamagetracker.cs
+++MusicInMainMenu.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforsound\scriptsformusic\musicinmainmenu.cs
+++Heal.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\heals\heal.cs
+++Inventory.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\inventory\inventory.cs
+++ListAllWeapons.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\inventory\listallweapons.cs
+++SaveInventoryBetweenScenes.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\inventory\saveinventorybetweenscenes.cs
+++WeaponCard.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\inventory\weaponcard.cs
+++WeaponMarket.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsfortools\inventory\weaponmarket.cs
+++InfoManager.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\ingame\infomanager.cs
+++StatsInMatch.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\ingame\statsinmatch.cs
+++WeaponInInventoryView.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\ingame\weaponininventoryview.cs
+++ClassLanguage.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\classlanguage.cs
+++MapsParametrs.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\mapsparametrs.cs
+++MoveCamera.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\movecamera.cs
+++OpenOrCloseUI.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\openorcloseui.cs
+++OtherLanguage.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\otherlanguage.cs
+++SelectMap.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\selectmap.cs
+++SelectMode.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\selectmode.cs
+++SelectNumberPlayer.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\selectnumberplayer.cs
+++StartLevel.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\startlevel.cs
+++SwitchLanguage.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\scripts\scriptsforui\mainmenu\switchlanguage.cs
+++Anton OFL.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\fonts\anton ofl.txt
+++Bangers - OFL.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\fonts\bangers - ofl.txt
+++Oswald-Bold - OFL.txt
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\fonts\oswald-bold - ofl.txt
+++Benchmark01.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\benchmark01.cs
+++Benchmark01_UGUI.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\benchmark01_ugui.cs
+++Benchmark02.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\benchmark02.cs
+++Benchmark03.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\benchmark03.cs
+++Benchmark04.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\benchmark04.cs
+++CameraController.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\cameracontroller.cs
+++ChatController.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\chatcontroller.cs
+++DropdownSample.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\dropdownsample.cs
+++EnvMapAnimator.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\envmapanimator.cs
+++ObjectSpin.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\objectspin.cs
+++ShaderPropAnimator.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\shaderpropanimator.cs
+++SimpleScript.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\simplescript.cs
+++SkewTextExample.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\skewtextexample.cs
+++TeleType.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\teletype.cs
+++TextConsoleSimulator.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\textconsolesimulator.cs
+++TextMeshProFloatingText.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\textmeshprofloatingtext.cs
+++TextMeshSpawner.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\textmeshspawner.cs
+++TMP_DigitValidator.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_digitvalidator.cs
+++TMP_ExampleScript_01.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_examplescript_01.cs
+++TMP_FrameRateCounter.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_frameratecounter.cs
+++TMP_PhoneNumberValidator.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_phonenumbervalidator.cs
+++TMP_TextEventCheck.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_texteventcheck.cs
+++TMP_TextEventHandler.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_texteventhandler.cs
+++TMP_TextInfoDebugTool.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_textinfodebugtool.cs
+++TMP_TextSelector_A.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_textselector_a.cs
+++TMP_TextSelector_B.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_textselector_b.cs
+++TMP_UiFrameRateCounter.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmp_uiframeratecounter.cs
+++TMPro_InstructionOverlay.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\tmpro_instructionoverlay.cs
+++VertexColorCycler.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\vertexcolorcycler.cs
+++VertexJitter.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\vertexjitter.cs
+++VertexShakeA.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\vertexshakea.cs
+++VertexShakeB.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\vertexshakeb.cs
+++VertexZoom.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\vertexzoom.cs
+++WarpTextExample.cs
+i:{6e902eb1-b3b4-4542-09a2-e9b012b93088}:c:\unity\parrotsproject\zombiweb\zombiwebshooter\assets\textmesh pro\examples & extras\scripts\warptextexample.cs
